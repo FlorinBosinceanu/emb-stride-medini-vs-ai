@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite the paper below."
+title: "Architectural Security Analysis of Electro-Mechanical Braking Systems and AI-Based Threat Vectors: Supplementary Material"
+type: dataset
+authors:
+  - family-names: "TBD"
+    given-names: "TBD"
+license: CC-BY-4.0
+preferred-citation:
+  type: conference-paper
+  title: "Architectural Security Analysis of Electro-Mechanical Braking Systems and AI-Based Threat Vectors"
+  authors:
+    - family-names: "TBD"
+      given-names: "TBD"
+  collection-title: "TBD"
+  year: 2026
